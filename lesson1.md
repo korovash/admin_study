@@ -6,7 +6,7 @@
 - Установка гипервизора VirtualBox (Windows, Linux или macOS).
 - Загрузка ISO-образа Rocky Linux/AlmaLinux/Oracle Linux/Centos (например, 9.x) с официального сайта.
 - Создание виртуальной машины в VirtualBox:
-  - Новый → имя `rocky-devops`, тип Linux, версия Red Hat (64-bit).
+  - Новый → имя произвольное (например, `pet-1`), тип Linux, версия Red Hat (64-bit).
   - Выделить минимум 2 ГБ RAM (лучше 4 ГБ) и 20 ГБ HDD.
   - Указать ISO-образ для установки.
 - Установка ОС Rocky Linux пошагово:

@@ -1,10 +1,10 @@
-# Учебная программа — DevOps пет-проект (VM + Python + Postgres + Nginx)
+# Учебная программа — DevOps пет-проект
 
-## Шаг 0. Подготовка окружения (установка VirtualBox и Rocky Linux)
+## Шаг 0. Подготовка окружения (установка VirtualBox и OS)
 
 ### Теория и навыки
 - Установка гипервизора VirtualBox (Windows, Linux или macOS).
-- Загрузка ISO-образа Rocky Linux (например, 9.x) с официального сайта.
+- Загрузка ISO-образа Rocky Linux/AlmaLinux/Oracle Linux/Centos (например, 9.x) с официального сайта.
 - Создание виртуальной машины в VirtualBox:
   - Новый → имя `rocky-devops`, тип Linux, версия Red Hat (64-bit).
   - Выделить минимум 2 ГБ RAM (лучше 4 ГБ) и 20 ГБ HDD.
